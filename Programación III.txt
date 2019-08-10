@@ -1,0 +1,32 @@
+Programación III
+
+Profesor Maximiliano Sar Fernandez
+msarfernandez@docentes.frgp.utn.edu.ar
+
+3 TPs + TP Cuatrimestral dividido en 4 entregas
+1 parcial (Entre clase 12 y 14)
+
+Se promociona aprobando los TPs + Parcial 8 o mas (1 recuperatorio en clase 16)
+
+Final
+	Primeras instancias de final
+		Mejoras al TP cuatrimestral
+	
+	Siguientes instancias
+		Aplicación nueva
+
+Temas
+	.NET
+	Aplicaciones simples de escritorio
+	POO
+	Aplicaciones avanzadas de escritorio
+	ADO.NET
+	Aplicaciones Web con .NET
+
+
+
+
+
+
+
+

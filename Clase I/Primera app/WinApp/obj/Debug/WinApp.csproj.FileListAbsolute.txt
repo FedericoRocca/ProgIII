@@ -1,0 +1,10 @@
+C:\Users\frocc\Desktop\Repos\ProgIII\Clase I\Primera app\WinApp\bin\Debug\WinApp.exe.config
+C:\Users\frocc\Desktop\Repos\ProgIII\Clase I\Primera app\WinApp\bin\Debug\WinApp.exe
+C:\Users\frocc\Desktop\Repos\ProgIII\Clase I\Primera app\WinApp\bin\Debug\WinApp.pdb
+C:\Users\frocc\Desktop\Repos\ProgIII\Clase I\Primera app\WinApp\obj\Debug\WinApp.csprojAssemblyReference.cache
+C:\Users\frocc\Desktop\Repos\ProgIII\Clase I\Primera app\WinApp\obj\Debug\WinApp.Properties.Resources.resources
+C:\Users\frocc\Desktop\Repos\ProgIII\Clase I\Primera app\WinApp\obj\Debug\WinApp.csproj.GenerateResource.cache
+C:\Users\frocc\Desktop\Repos\ProgIII\Clase I\Primera app\WinApp\obj\Debug\WinApp.csproj.CoreCompileInputs.cache
+C:\Users\frocc\Desktop\Repos\ProgIII\Clase I\Primera app\WinApp\obj\Debug\WinApp.exe
+C:\Users\frocc\Desktop\Repos\ProgIII\Clase I\Primera app\WinApp\obj\Debug\WinApp.pdb
+C:\Users\frocc\Desktop\Repos\ProgIII\Clase I\Primera app\WinApp\obj\Debug\WinApp.Form1.resources
