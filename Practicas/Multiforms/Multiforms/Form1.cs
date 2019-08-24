@@ -46,5 +46,10 @@ namespace Multiforms
             frmNuevaVentana NewWindow = new frmNuevaVentana();
             NewWindow.Show();
         }
+
+        private void ToolStripButton1_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
